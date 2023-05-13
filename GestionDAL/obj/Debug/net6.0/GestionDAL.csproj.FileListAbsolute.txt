@@ -1,0 +1,65 @@
+C:\Users\pierr\source\repos\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.AssemblyReference.cache
+C:\Users\pierr\source\repos\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\source\repos\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.AssemblyInfo.cs
+C:\Users\pierr\source\repos\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.CoreCompileInputs.cache
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.AssemblyReference.cache
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.AssemblyInfoInputs.cache
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.AssemblyInfo.cs
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.CoreCompileInputs.cache
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.deps.json
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionBO.dll
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionBO.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.CopyComplete
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\obj\Debug\net6.0\refint\GestionDAL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionDAL\obj\Debug\net6.0\ref\GestionDAL.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.deps.json
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionBO.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionBO.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.AssemblyInfo.cs
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.CopyComplete
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\refint\GestionDAL.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\ref\GestionDAL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.deps.json
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionBO.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionBO.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.AssemblyReference.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.AssemblyInfoInputs.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.AssemblyInfo.cs
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.CopyComplete
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\refint\GestionDAL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionDAL\obj\Debug\net6.0\ref\GestionDAL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\obj\Debug\net6.0\refint\GestionDAL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.deps.json
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionDAL.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionBO.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\bin\Debug\net6.0\GestionBO.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.AssemblyReference.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.AssemblyInfoInputs.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.AssemblyInfo.cs
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.CoreCompileInputs.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\obj\Debug\net6.0\GestionDAL.csproj.CopyComplete
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionDAL\obj\Debug\net6.0\ref\GestionDAL.dll

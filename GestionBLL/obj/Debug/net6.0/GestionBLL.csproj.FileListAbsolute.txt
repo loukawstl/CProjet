@@ -1,0 +1,80 @@
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\bin\Debug\net6.0\GestionBLL.deps.json
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\bin\Debug\net6.0\GestionBLL.dll
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\bin\Debug\net6.0\GestionBLL.pdb
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\obj\Debug\net6.0\GestionBLL.csproj.AssemblyReference.cache
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\obj\Debug\net6.0\GestionBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\obj\Debug\net6.0\GestionBLL.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\obj\Debug\net6.0\GestionBLL.AssemblyInfo.cs
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\obj\Debug\net6.0\GestionBLL.csproj.CoreCompileInputs.cache
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\obj\Debug\net6.0\GestionBLL.dll
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\obj\Debug\net6.0\refint\GestionBLL.dll
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\obj\Debug\net6.0\GestionBLL.pdb
+C:\Users\pierr\source\repos\Gestion_Produit\GesitonBLL\obj\Debug\net6.0\ref\GestionBLL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.deps.json
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.AssemblyReference.cache
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.AssemblyInfoInputs.cache
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.AssemblyInfo.cs
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.CoreCompileInputs.cache
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\obj\Debug\net6.0\refint\GestionBLL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\obj\Debug\net6.0\ref\GestionBLL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBO.dll
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionDAL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBO.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionDAL.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.CopyComplete
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.deps.json
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBO.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionDAL.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBO.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionDAL.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.AssemblyInfo.cs
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.CopyComplete
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\refint\GestionBLL.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\ref\GestionBLL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.deps.json
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBO.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionDAL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBO.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionDAL.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.AssemblyReference.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.AssemblyInfoInputs.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.AssemblyInfo.cs
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.CopyComplete
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\refint\GestionBLL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionBLL\obj\Debug\net6.0\ref\GestionBLL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\obj\Debug\net6.0\refint\GestionBLL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.deps.json
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBLL.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBO.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionDAL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionBO.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\bin\Debug\net6.0\GestionDAL.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.AssemblyReference.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.AssemblyInfoInputs.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.AssemblyInfo.cs
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.CoreCompileInputs.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\obj\Debug\net6.0\GestionBLL.csproj.CopyComplete
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionBLL\obj\Debug\net6.0\ref\GestionBLL.dll

@@ -1,0 +1,202 @@
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\bin\Debug\net6.0-windows\GestionGUI.exe
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\bin\Debug\net6.0-windows\GestionGUI.deps.json
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\bin\Debug\net6.0-windows\GestionGUI.runtimeconfig.json
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\bin\Debug\net6.0-windows\GestionGUI.dll
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\bin\Debug\net6.0-windows\GestionGUI.pdb
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\GestionGUI.csproj.AssemblyReference.cache
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\Connexion.ConnexionForm.resources
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\GestionGUI.Properties.Resources.resources
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\GestionGUI.csproj.GenerateResource.cache
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\GestionGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\GestionGUI.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\GestionGUI.AssemblyInfo.cs
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\GestionGUI.csproj.CoreCompileInputs.cache
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\GestionGUI.dll
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\refint\GestionGUI.dll
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\GestionGUI.pdb
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\GestionGUI.genruntimeconfig.cache
+C:\Users\pierr\source\repos\Gestion_Produit\Connexion\obj\Debug\net6.0-windows\ref\GestionGUI.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.exe
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.dll.config
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.deps.json
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.runtimeconfig.json
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.AssemblyReference.cache
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\Connexion.ConnexionForm.resources
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.Properties.Resources.resources
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.GenerateResource.cache
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.AssemblyInfoInputs.cache
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.AssemblyInfo.cs
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.CoreCompileInputs.cache
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\refint\GestionGUI.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.genruntimeconfig.cache
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\ref\GestionGUI.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBLL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBO.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionDAL.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBLL.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBO.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionDAL.pdb
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.CopyComplete
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeProduits.resources
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmSyntheseClients.resources
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.exe
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.dll.config
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.deps.json
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.runtimeconfig.json
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBLL.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBO.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionDAL.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBLL.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBO.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionDAL.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\Connexion.ConnexionForm.resources
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeProduits.resources
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmSyntheseClients.resources
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.Properties.Resources.resources
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.AssemblyInfo.cs
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.CopyComplete
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\refint\GestionGUI.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.pdb
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.genruntimeconfig.cache
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\ref\GestionGUI.dll
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeClients.resources
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeClients.resources
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.exe
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.dll.config
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.deps.json
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.runtimeconfig.json
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBLL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBO.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionDAL.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBLL.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBO.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionDAL.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.AssemblyReference.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\Connexion.ConnexionForm.resources
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeClients.resources
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeProduits.resources
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmSyntheseClients.resources
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.Properties.Resources.resources
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.GenerateResource.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.AssemblyInfoInputs.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.AssemblyInfo.cs
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.CopyComplete
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\refint\GestionGUI.dll
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.pdb
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.genruntimeconfig.cache
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\ref\GestionGUI.dll
+C:\Users\admin\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeDevis.resources
+C:\Users\Etudiant-Sup\Desktop\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeDevis.resources
+C:\Code\Project csharp\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeDevis.resources
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\refint\GestionGUI.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.exe
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.dll.config
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.deps.json
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.runtimeconfig.json
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionGUI.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBLL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBO.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionDAL.dll
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBLL.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionBO.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\bin\Debug\net6.0-windows\GestionDAL.pdb
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.AssemblyReference.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\Connexion.ConnexionForm.resources
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeClients.resources
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeDevis.resources
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmListeProduits.resources
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.FrmSyntheseClients.resources
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.Properties.Resources.resources
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.GenerateResource.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.AssemblyInfoInputs.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.AssemblyInfo.cs
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.CoreCompileInputs.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.csproj.CopyComplete
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\GestionGUI.genruntimeconfig.cache
+C:\Users\louka\OneDrive\Bureau\Gestion_Produit\GestionGUI\obj\Debug\net6.0-windows\ref\GestionGUI.dll
